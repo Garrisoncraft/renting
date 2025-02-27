@@ -61,7 +61,7 @@ flutter run
 ![Login Form](assets/images/loginForm.png)
 ![Tenant Dashboard](assets/images/TenantDashbboard.png)
 ![Property Search](assets/images/searchFunction.png)
-![Property Details](assets/images/propertyView.png)
+![Property Details](assets/images/PropertiesView.png)
 ![Landlord Dashboard](assets/images/LandlordDashboard.png)
 ![Manage Property](assets/images/addproperties.png)
 ![Edit Property](assets/images/editProperties.png)
