@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663656379972",
+    "project_id": "renting-fc5bb",
+    "storage_bucket": "renting-fc5bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663656379972:android:16d271c3c9b011cf0cee11",
+        "android_client_info": {
+          "package_name": "com.house.renting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCDC2F7tEsyXtFce08jpwd7uuo_C95B2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
